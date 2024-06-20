@@ -1,5 +1,5 @@
 # data-structures
-- A practice java application for data structures
+- A java application for doing data structures and algorithm
 
 ## How to run: 
 - 
